@@ -1,0 +1,17 @@
+{
+    "name": "DellESMPlatform/Timers",
+    "description": "Crude Timers for API performance testing",
+    "authors": [
+        {
+            "name": "Mike McLaughlin",
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": 
+	{
+        "psr-0": 
+		{
+            "DellESMPlatform": "src/"
+        }
+    }
+}
