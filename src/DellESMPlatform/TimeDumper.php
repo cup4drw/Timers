@@ -1,6 +1,6 @@
 <?php
 
-namespace Dell_ESM_Platform;
+namespace DellESMPlatform;
 final class TimeDumper
 {
     private $timers;
